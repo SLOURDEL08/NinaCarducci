@@ -1,0 +1,61 @@
+{
+    "resources": [
+      {
+        "resourceType": "script",
+        "budget": {
+          "requests": 2,
+          "kilobytes": 80
+        }
+      },
+      {
+        "resourceType": "stylesheet",
+        "budget": {
+          "requests": 1,
+          "kilobytes": 20
+        }
+      },
+      {
+        "resourceType": "image",
+        "budget": {
+          "requests": 8,
+          "kilobytes": 300
+        }
+      },
+      {
+        "resourceType": "document",
+        "budget": {
+          "requests": 1,
+          "kilobytes": 10
+        }
+      },
+      {
+        "resourceType": "other",
+        "budget": {
+          "requests": 0,
+          "kilobytes": 0
+        }
+      },
+      {
+        "resourceType": "font",
+        "budget": {
+          "requests": 0,
+          "kilobytes": 0
+        }
+      },
+      {
+        "resourceType": "media",
+        "budget": {
+          "requests": 0,
+          "kilobytes": 0
+        }
+      },
+      {
+        "resourceType": "third-party",
+        "budget": {
+          "requests": 1,
+          "kilobytes": 20
+        }
+      }
+    ]
+  }
+  
